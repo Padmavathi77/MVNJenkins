@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23" started-at="2018-06-23T05:27:27Z" finished-at="2018-06-23T05:27:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23" started-at="2018-06-23T05:27:27Z" finished-at="2018-06-23T05:27:27Z">
+      <class name="Automation.MVNJenkins.RunJenkinsTest">
+        <test-method status="PASS" signature="printJenkins()[pri:0, instance:Automation.MVNJenkins.RunJenkinsTest@50f8360d]" name="printJenkins" duration-ms="6" started-at="2018-06-23T05:27:27Z" finished-at="2018-06-23T05:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printJenkins -->
+      </class> <!-- Automation.MVNJenkins.RunJenkinsTest -->
+      <class name="Automation.MVNJenkins.RunMavenTest">
+        <test-method status="PASS" signature="printMaven()[pri:0, instance:Automation.MVNJenkins.RunMavenTest@2cb4c3ab]" name="printMaven" duration-ms="0" started-at="2018-06-23T05:27:27Z" finished-at="2018-06-23T05:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMaven -->
+      </class> <!-- Automation.MVNJenkins.RunMavenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
